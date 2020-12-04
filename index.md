@@ -16,6 +16,7 @@ image(/docs/socialnetwork.png)
 Welcome to our class's Final Project, a newspaper devoted to social problems. 
 
 New: added 5:40
+New: added 5:50
 
 ## News articles
 
