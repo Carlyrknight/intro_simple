@@ -12,6 +12,8 @@ show_downloads: "true"
 
 Welcome to our class's Final Project, a newspaper devoted to social problems. 
 
+New: added 5:40
+
 ## News articles
 
 [News articles](articles.md) 
