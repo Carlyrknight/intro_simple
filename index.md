@@ -1,6 +1,8 @@
 ---
-layout: default
----
+title: INTRODUCTION TO SOCIOLOGY NEWSLETTER
+layout: template
+filename: index.md
+--- 
 
 # NYU Introduction to Sociology Newspaper
 ## Fall 2020
