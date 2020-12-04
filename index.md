@@ -1,6 +1,6 @@
 ---
 title: INTRODUCTION TO SOCIOLOGY NEWSLETTER
-layout: template
+layout: default
 filename: index.md
 --- 
 
