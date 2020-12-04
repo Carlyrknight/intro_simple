@@ -2,6 +2,8 @@
 title: INTRODUCTION TO SOCIOLOGY NEWSLETTER
 layout: default
 filename: index.md
+logo: (docs/nyulogo.jpg)
+show_downloads: "true"
 --- 
 
 # NYU Introduction to Sociology Newspaper
