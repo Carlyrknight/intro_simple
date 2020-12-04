@@ -8,6 +8,9 @@ show_downloads: "true"
 --- 
 
 # NYU Introduction to Sociology Newspaper
+
+image(/docs/socialnetwork.png)
+
 ## Fall 2020
 
 Welcome to our class's Final Project, a newspaper devoted to social problems. 
