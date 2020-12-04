@@ -19,7 +19,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Reviews
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Carlyrknight/intro_simple/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Reviews](reviews.md) 
 
 ## Opinion Pieces
 
+[Op-eds](opeds.md) 
