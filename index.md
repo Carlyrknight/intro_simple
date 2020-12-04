@@ -5,7 +5,7 @@ filename: index.md
 
 # NYU Introduction to Sociology Newspaper
 
-image(/docs/socialnetwork.png)
+[image](/docs/socialnetwork.png)
 
 ## Fall 2020
 
