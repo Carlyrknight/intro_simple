@@ -3,16 +3,12 @@ layout: default
 filename: index.md
 --- 
 
-# NYU Introduction to Sociology Newspaper
+# NYU Introduction to Sociology Newspaper, FALL 2020
 
 [image](/docs/socialnetwork.png)
 
-## Fall 2020
+### Welcome to our class's Final Project, a newspaper devoted to social problems. 
 
-Welcome to our class's Final Project, a newspaper devoted to social problems. 
-
-New: added 5:40
-New: added 5:50
 
 ## News articles
 
