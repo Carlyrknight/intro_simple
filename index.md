@@ -3,8 +3,6 @@ title: INTRODUCTION TO SOCIOLOGY NEWSLETTER
 description: Newspaper created by students of NYU Sociology Soc-UA 1, Fall 2020
 layout: default
 filename: index.md
-logo: /docs/nyulogo.jpg
-show_downloads: "true"
 --- 
 
 # NYU Introduction to Sociology Newspaper
