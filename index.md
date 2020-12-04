@@ -1,6 +1,4 @@
 ---
-title: INTRODUCTION TO SOCIOLOGY NEWSLETTER
-description: Newspaper created by students of NYU Sociology Soc-UA 1, Fall 2020
 layout: default
 filename: index.md
 --- 
