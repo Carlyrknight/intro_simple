@@ -6,7 +6,7 @@ filename: index.md
 # THE SOCIAL PROBLEMS NEWSPAPER
 ## NYU Introduction to Sociology, Fall 2020
 
-![image](/docs/socialnetwork.png)
+![image](/docs/building.jpg)
 
 ### Welcome to our class's Final Project, a newspaper devoted to social problems. 
 
