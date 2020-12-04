@@ -3,7 +3,8 @@ layout: default
 filename: index.md
 --- 
 
-# NYU Introduction to Sociology Newspaper, FALL 2020
+# THE SOCIAL PROBLEMS NEWSPAPER
+## NYU Introduction to Sociology, Fall 2020
 
 ![image](/docs/socialnetwork.png)
 
