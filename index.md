@@ -1,5 +1,6 @@
 ---
 title: INTRODUCTION TO SOCIOLOGY NEWSLETTER
+description: This is a description of the newsletter
 layout: default
 filename: index.md
 logo: (docs/nyulogo.jpg)
