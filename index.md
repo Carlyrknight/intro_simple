@@ -1,6 +1,6 @@
 ---
 title: INTRODUCTION TO SOCIOLOGY NEWSLETTER
-description: This is a description of the newsletter
+description: Newspaper created by students of NYU Sociology Soc-UA 1, Fall 2020
 layout: default
 filename: index.md
 logo: /docs/nyulogo.jpg
